@@ -11,8 +11,8 @@
   </font>
   <option name="EDITOR_LIGATURES" value="true" />
   <console-font>
-    <option name="EDITOR_FONT_NAME" value="Consolas" />
-    <option name="EDITOR_FONT_SIZE" value="16" />
+    <option name="EDITOR_FONT_NAME" value="Inconsolata" />
+    <option name="EDITOR_FONT_SIZE" value="15" />
   </console-font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="SimSun" />
