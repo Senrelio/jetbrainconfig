@@ -1,0 +1,6 @@
+<keymap version="1" name="XWin copy" parent="Default for XWin">
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="ctrl alt o" />
+  </action>
+  <action id="OptimizeImports" />
+</keymap>

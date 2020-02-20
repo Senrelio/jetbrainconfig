@@ -3,9 +3,6 @@
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
-  <action id="ActivateTerminalToolWindow">
-    <keyboard-shortcut first-keystroke="shift alt back_quote" />
-  </action>
   <action id="Arrangement.Alias.Rule.Remove">
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
@@ -33,21 +30,10 @@
     <keyboard-shortcut first-keystroke="meta back_space" />
   </action>
   <action id="EditorDeleteToWordEnd" />
-  <action id="EditorSplitLine" />
-  <action id="ExportToTextFile" />
-  <action id="GotoNextError" />
   <action id="Graph.Delete">
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
-  <action id="ImplementMethods" />
-  <action id="NextProjectWindow">
-    <keyboard-shortcut first-keystroke="meta back_quote" />
-  </action>
-  <action id="NextWindow" />
-  <action id="OverrideMethods" />
-  <action id="PreviousProjectWindow" />
-  <action id="PreviousWindow" />
   <action id="PropertyInspectorActions.RemoveProperty">
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
@@ -63,9 +49,6 @@
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
-  </action>
-  <action id="ShowRegistry">
-    <keyboard-shortcut first-keystroke="shift meta alt comma" />
   </action>
   <action id="Vcs.Push" />
   <action id="XDebugger.RemoveWatch">
