@@ -1,5 +1,6 @@
 <application>
   <component name="GitToolBoxAppSettings2">
+    <option name="hideInlineBlameWhileDebugging" value="false" />
     <option name="previousVersionMigrated" value="true" />
   </component>
 </application>
